@@ -1,1 +1,1 @@
-###EJS learn for the first time.
+EJS learn for the first time
